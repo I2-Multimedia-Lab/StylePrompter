@@ -1,0 +1,1 @@
+python ./scripts/train.py --type full --checkpoint_path ./pretrained/baseline.pt --multi_id True
